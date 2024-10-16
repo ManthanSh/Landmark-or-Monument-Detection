@@ -2,7 +2,7 @@
 Uses tenforflow hub model to classify the landmark in a given image
 
 # Important:
-Version requirement, tensorflow hub==0.15 and tensorflow == 2.14, gradio==5.1.0
+Version requirement, tensorflow hub==0.15, tensorflow == 2.14 and gradio==5.1.0
 
 Input image needs to be resized to (321,321,3)
 
